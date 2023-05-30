@@ -1,0 +1,16 @@
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.csproj.AssemblyReference.cache
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.AssemblyInfoInputs.cache
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.AssemblyInfo.cs
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.csproj.CoreCompileInputs.cache
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.exe
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.deps.json
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.runtimeconfig.json
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.runtimeconfig.dev.json
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.dll
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\bin\Debug\net5.0\TPFinal_Ruminahuel.pdb
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.dll
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\refint\TPFinal_Ruminahuel.dll
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.pdb
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\TPFinal_Ruminahuel.genruntimeconfig.cache
+C:\Users\rumin\Desktop\CURSOS\Curso Maxi\Curso C# nivel 1\Trabajo practico\TPFinal_Ruminahuel\obj\Debug\net5.0\ref\TPFinal_Ruminahuel.dll
