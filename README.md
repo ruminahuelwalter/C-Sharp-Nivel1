@@ -1,4 +1,4 @@
-# C-Nivel1
+# C#-Nivel1
 
 Hacer un programa que permita ingresar una lista de números que corta cuando se ingresa un cero. A partir de dichos datos informar:
 
